@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 Hi, I’m Parveen Jaiswal(@Rockstar100) <br>
-• I am currently pursuing Computer Science & Engineering 👨‍🎓 and I love technology and computer science.<br>• I am a Web Developer currently specialized in Front End, I use bootstrap and react.js, learning about the back end and I prefer using node.js & php for the back end.<br><br>• I love to contribute to open source projects and I have contributed to many projects on web development. I have contributed to a project of a Immigration Website and I made its Frontend and Backend and it is Available at my Github.<br><br>• I am currently working on Datastructures and Algorithms and I code in C++, also learning to code in Python.<br><br>-Apart from this I also do video editing as I love it and I am a graphic designer too.<br><br>📫 You can email me at parveenjaiswal100@gmail.com or Boyrockstar100@gmail.com
+
+Full Stack Developer with 2+ years of commercial experience shipping fast, scalable web applications. I specialise in React.js, Next.js, Node.js, and TypeScript — building products that are performant, maintainable, and user-focused.
+
+At SpacePepper Studios, I build and maintain production web applications, architect reusable React component libraries that have cut development time by approximately 30%, and contribute to agile sprint cycles and CI/CD workflows. I work closely with designers and backend engineers to ship clean, integrated products on schedule.
+
+At SaralTech, I led 8+ Next.js web projects end-to-end — most notably achieving a 25% reduction in page load times through server-side rendering, strategic caching, and lazy loading. I also designed responsive, accessible interfaces that measurably improved user satisfaction scores across client projects.
+
+Outside of employment, I have shipped production-grade projects:
+
+→ The Karnani — a MERN-stack real estate platform with an SEO-optimised Next.js frontend (thekarnani.com)
+→ Clickmaster — a full-stack photographer booking platform serving 50+ photographers, with a 12% improvement in user retention (clickmaster.netlify.app)
+
+I also founded and led the Google Developer Student Clubs chapter at SVIET — grew it to 300+ members, 9,000+ LinkedIn followers, and ran 10+ workshops impacting 500+ students.
+
+I am always interested in challenging engineering problems and collaborative teams. Feel free to connect, explore my projects, or reach out directly.
 
 
 ## 🌐 Socials:
