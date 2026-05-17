@@ -4,7 +4,6 @@ Full Stack Developer with 2+ years of commercial experience shipping fast, scala
 
 At SpacePepper Studios, I build and maintain production web applications, architect reusable React component libraries that have cut development time by approximately 30%, and contribute to agile sprint cycles and CI/CD workflows. I work closely with designers and backend engineers to ship clean, integrated products on schedule.
 
-At SaralTech, I led 8+ Next.js web projects end-to-end — most notably achieving a 25% reduction in page load times through server-side rendering, strategic caching, and lazy loading. I also designed responsive, accessible interfaces that measurably improved user satisfaction scores across client projects.
 
 Outside of employment, I have shipped production-grade projects:
 
