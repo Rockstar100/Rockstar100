@@ -21,6 +21,9 @@ I am always interested in challenging engineering problems and collaborative tea
 |---|---|
 | [web-pixel-tracker](https://github.com/Rockstar100/web-pixel-tracker) | Shopify e-commerce analytics platform — customer journey tracking, multi-touch attribution, RFM segmentation, GDPR/CCPA-compliant data pipeline |
 | [commerce-insights-agent](https://github.com/Rockstar100/commerce-insights-agent) | AI chat agent (LangGraph + Next.js) that connects Shopify, Meta Ads, Google Ads/Analytics/Search Console, and SEMrush for natural-language marketing analytics |
+| [audio-gear-storefront](https://github.com/Rockstar100/audio-gear-storefront) | React storefront for an audio/electronics shop — product filtering/sorting, cart with live totals, mock auth |
+| [Warehousing](https://github.com/Rockstar100/Warehousing) | SKU/product-margin tracker — Express + PostgreSQL API with a Next.js CRUD frontend (search, sort, pagination) |
+| [kudospot-frontend](https://github.com/Rockstar100/kudospot-frontend) + [kudospot-backend](https://github.com/Rockstar100/kudospot-backend) | Full-stack MERN peer-recognition app — send "kudos" to colleagues and view kudos analytics |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parveen_jaiswal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parveen-jaiswal-9964a3216/) 
