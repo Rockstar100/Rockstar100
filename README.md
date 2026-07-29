@@ -21,8 +21,6 @@ I am always interested in challenging engineering problems and collaborative tea
 |---|---|
 | [Toureila](https://github.com/Rockstar100/Toureila) | Full-stack travel booking platform — React frontend (flight/hotel/train search) backed by a real Express + MongoDB auth API with JWT sessions |
 | [commerce-insights-agent](https://github.com/Rockstar100/commerce-insights-agent) | AI chat agent (LangGraph + Next.js) that connects Shopify, Meta Ads, Google Ads/Analytics/Search Console, and SEMrush for natural-language marketing analytics |
-| [Banana-Clicker](https://github.com/Rockstar100/Banana-Clicker) | Real-time multiplayer clicker game (MERN + Socket.IO) with a live leaderboard and admin dashboard |
-| [kudospot-backend](https://github.com/Rockstar100/kudospot-backend) | REST API for Kudospot, a peer-recognition app for sending and tracking kudos between colleagues (Node.js, Express, MongoDB) |
 | [Warehousing](https://github.com/Rockstar100/Warehousing) | SKU/product-margin tracker — Express + PostgreSQL API with a Next.js CRUD frontend (search, sort, pagination) |
 
 ## 🌐 Socials:
