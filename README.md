@@ -16,12 +16,22 @@ I am always interested in challenging engineering problems and collaborative tea
 
 
 ## 🚀 Featured Projects:
+Ranked by scope and how production-ready they are, best first.
 
-| Project | What it is |
-|---|---|
-| [Toureila](https://github.com/Rockstar100/Toureila) | Full-stack travel booking platform — React frontend (flight/hotel/train search) backed by a real Express + MongoDB auth API with JWT sessions |
-| [commerce-insights-agent](https://github.com/Rockstar100/commerce-insights-agent) | AI chat agent (LangGraph + Next.js) that connects Shopify, Meta Ads, Google Ads/Analytics/Search Console, and SEMrush for natural-language marketing analytics |
-| [Warehousing](https://github.com/Rockstar100/Warehousing) | SKU/product-margin tracker — Express + PostgreSQL API with a Next.js CRUD frontend (search, sort, pagination) |
+| # | Project | What it is |
+|---|---|---|
+| 1 | [ClickMasters](https://github.com/Rockstar100/ClickMasters) | Full-stack cameraman/photographer booking platform — Next.js frontend + Express/MongoDB backend, photographer/rider profiles, bookings, admin management (live: clickmaster.netlify.app) |
+| 2 | [commerce-insights-agent](https://github.com/Rockstar100/commerce-insights-agent) | AI chat agent (LangGraph + Next.js) that connects Shopify, Meta Ads, Google Ads/Analytics/Search Console, and SEMrush for natural-language marketing analytics |
+| 3 | [web-pixel-tracker](https://github.com/Rockstar100/web-pixel-tracker) | E-commerce analytics & customer journey tracking for Shopify — order lifecycle, multi-touch attribution, RFM segmentation, cohort analysis, GDPR/CCPA compliance |
+| 4 | [Warehousing](https://github.com/Rockstar100/Warehousing) | SKU/product-margin tracker — Express + PostgreSQL API with a Next.js CRUD frontend (search, sort, pagination) |
+| 5 | [Toureila](https://github.com/Rockstar100/Toureila) | Full-stack travel booking platform — React frontend (flight/hotel/train search) backed by a real Express + MongoDB auth API with JWT sessions |
+| 6 | [kudospot-frontend](https://github.com/Rockstar100/kudospot-frontend) / [kudospot-backend](https://github.com/Rockstar100/kudospot-backend) | Peer-recognition app for sending kudos and viewing team analytics — React frontend, Node/Express/MongoDB API |
+| 7 | [Banana-Clicker](https://github.com/Rockstar100/Banana-Clicker) | Real-time multiplayer clicker game (MERN + Socket.IO) with a live leaderboard and admin dashboard |
+| 8 | [audio-gear-storefront](https://github.com/Rockstar100/audio-gear-storefront) | React e-commerce storefront with product filtering/sorting and a live cart (static data, no backend) |
+| 9 | [pokemon-tracker](https://github.com/Rockstar100/pokemon-tracker) | React app for tracking Pokémon owned by registered trainers, bundled mock API for local demo |
+| 10 | [Weather-Forecasting-System](https://github.com/Rockstar100/Weather-Forecasting-System) | 5-day weather forecasting app — React, Tailwind |
+
+*(Older coursework/practice repos — Redux/Router assignments, clones, one-off hackathon entries — are intentionally left off this list.)*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parveen_jaiswal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parveen-jaiswal-9964a3216/) 
