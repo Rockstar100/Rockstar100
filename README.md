@@ -25,11 +25,6 @@ Ranked by scope and how production-ready they are, best first.
 | 3 | [web-pixel-tracker](https://github.com/Rockstar100/web-pixel-tracker) | E-commerce analytics & customer journey tracking for Shopify — order lifecycle, multi-touch attribution, RFM segmentation, cohort analysis, GDPR/CCPA compliance |
 | 4 | [Warehousing](https://github.com/Rockstar100/Warehousing) | SKU/product-margin tracker — Express + PostgreSQL API with a Next.js CRUD frontend (search, sort, pagination) |
 | 5 | [Toureila](https://github.com/Rockstar100/Toureila) | Full-stack travel booking platform — React frontend (flight/hotel/train search) backed by a real Express + MongoDB auth API with JWT sessions |
-| 6 | [kudospot-frontend](https://github.com/Rockstar100/kudospot-frontend) / [kudospot-backend](https://github.com/Rockstar100/kudospot-backend) | Peer-recognition app for sending kudos and viewing team analytics — React frontend, Node/Express/MongoDB API |
-| 7 | [Banana-Clicker](https://github.com/Rockstar100/Banana-Clicker) | Real-time multiplayer clicker game (MERN + Socket.IO) with a live leaderboard and admin dashboard |
-| 8 | [audio-gear-storefront](https://github.com/Rockstar100/audio-gear-storefront) | React e-commerce storefront with product filtering/sorting and a live cart (static data, no backend) |
-| 9 | [pokemon-tracker](https://github.com/Rockstar100/pokemon-tracker) | React app for tracking Pokémon owned by registered trainers, bundled mock API for local demo |
-| 10 | [Weather-Forecasting-System](https://github.com/Rockstar100/Weather-Forecasting-System) | 5-day weather forecasting app — React, Tailwind |
 
 *(Older coursework/practice repos — Redux/Router assignments, clones, one-off hackathon entries — are intentionally left off this list.)*
 
